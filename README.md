@@ -1,16 +1,60 @@
-# React + Vite
+# 🌿 Wellness Center – React Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive wellness center website built using **React** and **Tailwind CSS**, inspired by professional wellness templates.  
+The project focuses on clean UI, smooth interactions, and real-world frontend architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Preview
+*(Coming soon – deployment planned on Vercel)*
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 Features
 
-## Expanding the ESLint configuration
+- Modern hero section with background image
+- Contact form popup (modal)
+- Appointment booking modal
+- Smooth scrolling navigation
+- Responsive layout (desktop & mobile)
+- Clean, reusable React components
+- Tailwind CSS utility-first styling
+- Accessible & user-friendly UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React (Vite)**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **Git & GitHub**
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Hemanth-Indstack/wellness-center-react.git
+Navigate to the project folder
+
+bash
+Copy code
+cd wellness-center-react
+Install dependencies
+
+bash
+Copy code
+npm install
+Start development server
+
+bash
+Copy code
+npm run dev
+Open in browser
+
+arduino
+Copy code
+http://localhost:5173
